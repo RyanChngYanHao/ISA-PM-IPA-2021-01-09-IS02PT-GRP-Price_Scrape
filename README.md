@@ -1,5 +1,5 @@
 ## SECTION 1 : PROJECT TITLE
-## Investment Rdeep - Stock Recommender
+## Price Scrape - A Web Scraping Tool for Sg Grocery Stores
 
 
 
