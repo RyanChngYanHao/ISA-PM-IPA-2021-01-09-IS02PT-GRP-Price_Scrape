@@ -36,12 +36,7 @@
 -	Download PriceScrape.zip
 -	Internet connection required
 -	Python 3.7.6
--	Packages
-#####	>>>>>>>>>>      Web scraping			: tagui
-#####	>>>>>>>>>>	GUI 				: tkinter
-#####	>>>>>>>>>> 	Data and system related 	: os, datetime, re, schedule, time
-#####	>>>>>>>>>> 	Numbers and text		: pandas, nltk, nltk (punkt & stopwords)
-#####	>>>>>>>>>>	Images 				: PIL
+-	Packages: tagui, tkinter, os, date, re, schedule, time, pandas, nltk, nltk (punkt & stopwords) & PIL
 
 ### Recommended:
 -	Windows 10
