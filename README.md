@@ -18,7 +18,7 @@
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
 | Lim Kah Ghi | A0100172A | from 0% to 100% | E0508022@u.nus.edu |
-| Chng Yan Hao | A0024023A | from 0% to 100% | E0529228@nus.edu.sg |
+| Chng Yan Hao | A0024023A | from 0% to 100% | E0529228@u.nus.edu |
 
 ---
 
