@@ -24,8 +24,8 @@
 
 ## SECTION 4 : INTRODUCTION & DEMO VIDEOS
 
-- View [Intro](https://github.com/RyanChngYanHao/ISA-PM-IPA-2021-01-09-IS02PT-GRP-Price_Scrape/blob/master/Video/UnderConstruction.txt)
-- View [Demo](https://github.com/RyanChngYanHao/ISA-PM-IPA-2021-01-09-IS02PT-GRP-Price_Scrape/blob/master/Video/UnderConstruction.txt)
+- View [Intro](https://github.com/RyanChngYanHao/ISA-PM-IPA-2021-01-09-IS02PT-GRP-Price_Scrape/blob/master/Video/UnderConstruction.pdf)
+- View [Demo](https://github.com/RyanChngYanHao/ISA-PM-IPA-2021-01-09-IS02PT-GRP-Price_Scrape/blob/master/Video/UnderConstruction.pdf)
 
 ---
 
@@ -46,7 +46,7 @@
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`Refer to`[ProjectReport](https://github.com/RyanChngYanHao/ISA-PM-IPA-2021-01-09-IS02PT-GRP-Price_Scrape/blob/master/ProjectReport/UnderConstruction.txt) `in Github Folder: ProjectReport`
+`Refer to`[ProjectReport](https://github.com/RyanChngYanHao/ISA-PM-IPA-2021-01-09-IS02PT-GRP-Price_Scrape/blob/master/ProjectReport/UnderConstruction.pdf) `in Github Folder: ProjectReport`
 
 **Recommended Sections for Project Report / Paper:**
 - Executive Summary
