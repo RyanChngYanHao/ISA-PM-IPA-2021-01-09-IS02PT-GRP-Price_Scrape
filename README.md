@@ -22,10 +22,10 @@
 
 ---
 
-## SECTION 4 : INTRODUCTION & DEMO VIDEOS
+## SECTION 4 : PROMOTION & SYSTEM VIDEOS
 
-- View [Intro](https://github.com/RyanChngYanHao/ISA-PM-IPA-2021-01-09-IS02PT-GRP-Price_Scrape/blob/master/Video/UnderConstruction.pdf)
-- View [Demo](https://youtu.be/W8hFIvNQG9g)
+- View [Promotion](https://github.com/RyanChngYanHao/ISA-PM-IPA-2021-01-09-IS02PT-GRP-Price_Scrape/blob/master/Video/UnderConstruction.pdf)
+- View [System](https://youtu.be/W8hFIvNQG9g)
 
 ---
 
