@@ -65,4 +65,4 @@
 
 ---
 
-**Special thanks to [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore") lecturers in [Intellgient Software Agents (ISA)](https://www.iss.nus.edu.sg/executive-education/course/detail/practice-module-for-intelligent-software-agents "Intellgient Software Agents"), making this possible.**
+**Special thanks to [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore") lecturers in [Intelligent Software Agents (ISA)](https://www.iss.nus.edu.sg/executive-education/course/detail/practice-module-for-intelligent-software-agents "Intellgient Software Agents"), making this possible.**
