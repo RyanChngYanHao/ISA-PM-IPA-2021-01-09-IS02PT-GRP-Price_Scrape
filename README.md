@@ -24,7 +24,7 @@
 
 ## SECTION 4 : PROMOTION & SYSTEM VIDEOS
 
-- View [Promotion](https://github.com/RyanChngYanHao/ISA-PM-IPA-2021-01-09-IS02PT-GRP-Price_Scrape/blob/master/Video/UnderConstruction.pdf)
+- View [Promotion](https://youtu.be/PfeqxR0zTUA)
 - View [System](https://youtu.be/W8hFIvNQG9g)
 
 ---
@@ -41,19 +41,19 @@
 ### Recommended:
 -	Windows 10
 -	Google Chrome Browser
--	Python 3.7.6 & above
+-	Python 3.7.6 & above (enabled in CMD)
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`Refer to`[ProjectReport](https://github.com/RyanChngYanHao/ISA-PM-IPA-2021-01-09-IS02PT-GRP-Price_Scrape/blob/master/ProjectReport/UnderConstruction.pdf) `in Github Folder: ProjectReport`
+`Refer to`[ProjectReport](https://github.com/RyanChngYanHao/ISA-PM-IPA-2021-01-09-IS02PT-GRP-Price_Scrape/blob/master/ProjectReport/ProjectReport.pdf) `in Github Folder: ProjectReport`
 
 **Recommended Sections for Project Report / Paper:**
 - Executive Summary
 - Problem Description
 - Software Agent System
 - Solution
-- Conclusions & References
+- Conclusion
 
 ---
 ## SECTION 7 : MISCELLANEOUS
